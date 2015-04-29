@@ -12,5 +12,5 @@ function fnsToMethod(x) {
 }
 
 module.exports = method(function use(dest, src) {
-	return mapObj(extend(dest, src), fnsToMethod);
+	return mapObj(extend(dest, src, {use: use}), fnsToMethod);
 });
