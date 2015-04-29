@@ -1,0 +1,37 @@
+{
+  "name": "hebrides",
+  "version": "1.0.0",
+  "description": "Extensible module APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quarterto/Hebrides.git"
+  },
+  "keywords": [
+    "extend",
+    "module",
+    "api",
+    "use",
+    "plugin"
+  ],
+  "author": "Matt Brennan <matt@153.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quarterto/Hebrides/issues"
+  },
+  "homepage": "https://github.com/quarterto/Hebrides#readme",
+  "dependencies": {
+    "lodash.mapvalues": "^3.0.0",
+    "xtend": "^4.0.0"
+  },
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "dirty-chai": "^1.2.1",
+    "mocha": "^2.2.4",
+    "sinon": "^1.14.1",
+    "sinon-chai": "^2.7.0"
+  }
+}
