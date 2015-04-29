@@ -1,7 +1,7 @@
 <h1 align="center">
 	Hebrides <br>
 	<a href="http://badge.fury.io/js/hebrides"><img src="https://badge.fury.io/js/hebrides.svg" alt="npm version" height="18"></a>
-	<a href="https://travis-ci.com/quarterto/hebrides"><img src="https://travis-ci.com/quarterto/hebrides.svg" alt="build status" height="18"></a>
+	<a href="https://travis-ci.org/quarterto/hebrides"><img src="https://travis-ci.org/quarterto/hebrides.svg" alt="build status" height="18"></a>
 </h1>
 
 Helper for creating pluggable module APIs
